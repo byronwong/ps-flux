@@ -1,3 +1,11 @@
+===
+
+# Project details
+
+To learn Flux as a pre-cursor to Redux
+
+===
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
